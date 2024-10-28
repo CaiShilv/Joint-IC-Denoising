@@ -153,7 +153,7 @@ OMP_NUM_THREADS=4 python test.py -opt ./conf/test/<xxx>.yml
 
 ## Acknowledgement
 
-This repository is built based on [CompressAI](https://github.com/InterDigitalInc/CompressAI).
+This repository is built based on [CompressAI](https://github.com/InterDigitalInc/CompressAI) and [DenoiseCompression](https://github.com/felixcheng97/DenoiseCompression).
 
 ## Citation
 
